@@ -4,7 +4,7 @@
  
  
  # Visual Results
- 12 images compressed with PCA.
+ 12 images compressed from an MRI image with PCA.
  
   * CR (Compression ratio)
   <p align="center">
