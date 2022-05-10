@@ -8,7 +8,7 @@
  
   * CR (Compression ratio)
   <p align="center">
-   <img align="center" src="results/SVD1.jpg" width="350" height="350" /> <img align="center" src="PCA.gif" width="350" height="348" />
+   <img align="center" src="results/SVD1.jpg" width="350" height="350" /> <img align="center" src="svdgif.gif" width="350" height="348" />
   </p>
 
 # Quantitative Results
