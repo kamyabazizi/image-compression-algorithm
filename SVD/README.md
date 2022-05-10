@@ -1,10 +1,10 @@
- # Principal Component Analysis
+ # Singular Value Decomposition
  
- PCA is an algorithm that attempts to reduce the dimensionality within a data while still retaining as much information as possible and in this MATLAB code, we implemented the image compressions with PCA. 
+Singular value decomposition (SVD) is a matrix factorization method that generalizes the eigendecomposition of a square matrix (n x n) to any matrix (n x m) (source).
  
  
  # Visual Results
- 12 images compressed from an MRI image with PCA.
+ 12 images compressed from an MRI image with SVD.
  
   * CR (Compression ratio)
   <p align="center">
