@@ -1,6 +1,6 @@
  # Principal Component Analysis
  
- PCA is an algorithm that attempts to reduce the dimensionality within a data while still retaining as much information as possible and in this MATLAB code, we implemented the image compressions with PCA. 
+ PCA is an algorithm that attempts to reduce the dimensionality within a data while still retaining as much information as possible and in this MATLAB code, we implemented the image compression with PCA. 
  
  
  # Visual Results
