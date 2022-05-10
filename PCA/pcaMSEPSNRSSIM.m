@@ -8,7 +8,7 @@ ref = rgb2gray(imdata);
 %figure
 %imshow(ref);
 %title('gray image');
-imcomp = imread('pcacompressedimage1000.jpg');
+imcomp = imread('path to compressed image');
 figure
 imshow(imcomp);
 title('compressed image')
