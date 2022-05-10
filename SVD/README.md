@@ -8,7 +8,7 @@
  
   * CR (Compression ratio)
   <p align="center">
-   <img align="center" src="results/PCA1.jpg" width="350" height="350" /> <img align="center" src="PCA.gif" width="350" height="348" />
+   <img align="center" src="results/SVD1.jpg" width="350" height="350" /> <img align="center" src="PCA.gif" width="350" height="348" />
   </p>
 
 # Quantitative Results
@@ -20,6 +20,6 @@
    
  * SSIM (Structural similarity index measure)
   <p align="center">
-   <img align="center" src="results/PCA2.jpg" width="400" height="356" />
+   <img align="center" src="results/SVD2.jpg" width="400" height="356" />
   </p>
 
