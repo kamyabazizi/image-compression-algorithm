@@ -6,29 +6,19 @@
  # Visual Results
  12 images compressed with PCA.
  
-  * CR
- 
-    Compression ratio
+  * CR (Compression ratio)
   <p align="center">
    <img align="center" src="results/PCA1.jpg" width="350" height="350" /> <img align="center" src="PCA.gif" width="350" height="348" />
   </p>
 
 # Quantitative Results
- * BitRate (bpp)
+ * BitRate (Bit per pixel rate-bpp)
  
-   Bit per pixel rate
- 
- * MSE
- 
-   Mean square error 
+ * MSE (Mean square error) 
    
- * PSNR
- 
-   Peak to signal noise ratio
+ * PSNR (Peak to signal noise ratio)
    
- * SSIM
- 
-   Structural similarity index measure
+ * SSIM (Structural similarity index measure)
   <p align="center">
    <img align="center" src="results/PCA2.jpg" width="400" height="356" />
   </p>
