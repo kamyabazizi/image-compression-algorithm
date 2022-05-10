@@ -1,7 +1,6 @@
  # Singular Value Decomposition
  
-Singular value decomposition (SVD) is a matrix factorization method that generalizes the eigendecomposition of a square matrix (n x n) to any matrix (n x m) (source).
- 
+ In linear algebra, the Singular Value Decomposition (SVD) of a matrix is a factorization of that matrix into three matrices.
  
  # Visual Results
  12 images compressed from an MRI image with SVD.
