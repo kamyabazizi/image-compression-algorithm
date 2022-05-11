@@ -1,5 +1,5 @@
 # Image-compression-algorithms
-Different image compressions method - Image processing project
+Different image compression's method - Image processing project
 
 In this project, four simple image compression algorithms were implemented with MATLAB code.
 
