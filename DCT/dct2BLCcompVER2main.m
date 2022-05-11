@@ -36,4 +36,4 @@ I2B = blockproc(B2B,[8 8],invdct);
 L=cat(3,I2R,I2G,I2B);
 L=uint8(L);
 imshow(L);
-imwrite(L,'DCT2compressedimagemag.jpg');
+imwrite(L,'DCTcompressedimage.jpg');
