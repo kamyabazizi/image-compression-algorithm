@@ -1,2 +1,2 @@
 # image-compression-algorithm
-Different image compressions method
+Different image compressions method - Image processing project
