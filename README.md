@@ -21,8 +21,8 @@ In this project, four simple image compression algorithms were implemented with 
   </p>
   
   <p align="center">
-   <img align="center" src="DCT/results/DCTgif.gif" width="128" height="128" alt="DCT" title="DCT" class="caption" /> <img align="center" src="DWT/results/DWTgif.gif" width="128" height="128" alt="DWT" title="DWT" class="caption"  /> <img align="center" src="SVD/svdgif.gif" width="128" height="128" alt="SVD" title="SVD" class="caption"  /> <img align="center" src="PCA/PCA.gif" width="128" height="128" alt="PCA" title="PCA" class="caption"  /> 
+   <img align="center" src="DCT/results/DCTgif.gif" width="150" height="150" alt="DCT" title="DCT" class="caption" /> <img align="center" src="DWT/results/DWTgif.gif" width="150" height="150" alt="DWT" title="DWT" class="caption"  /> <img align="center" src="SVD/svdgif.gif" width="150" height="150" alt="SVD" title="SVD" class="caption"  /> <img align="center" src="PCA/PCA.gif" width="150" height="150" alt="PCA" title="PCA" class="caption"  /> 
   </p>
    <p align="center">
-         DCT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DWT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SVD &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PCA
+         DCT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DWT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SVD &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PCA
    </p>
