@@ -10,6 +10,8 @@ In this project, four simple image compression algorithms were implemented with 
 
 # Comparison
 
+ * BitRate (Bit per pixel rate-bpp)
+ 
  * MSE (Mean square error) 
    
  * PSNR (Peak to signal noise ratio)
